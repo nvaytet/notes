@@ -21,7 +21,7 @@ So I removed the `setPosition`
 
 and the build still passed on `isis-ndw1170`.
 
-Reverting the `rootIndex` stuff back broke the build
+Reverting the `rootIndex` stuff back broke the build (also on `isis-ndw1170`)
 
 ![diff 3](https://github.com/nvaytet/notes/blob/master/images/diff3.png)
 
