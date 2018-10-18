@@ -39,4 +39,6 @@ Changing the syntax to be `auto rootIndexA = a.root();` and `a.setRotation(rootI
 
 passed the OSX build on `ill-mac`. Unfortunately it did no run on `isis-ndw1170`.
 
-I am wondering if it is machine-specific, but maybe you can see a good reason why one cannot use `a.root()` directly inside `setRotation`? 
+I am wondering if it is machine-specific, but maybe you can see a good reason why one cannot use `a.root()` directly inside `setRotation`?
+
+(PS: that last diff was form my terminal rather than github as I couldn't find a way to compare the source of two different commits from the same branch on github)
